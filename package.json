@@ -1,0 +1,28 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Arun P N",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnarun/NamasteReact.git"
+  },
+  "keywords": [],
+  "author": "Arun P N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnarun/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/pnarun/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
