@@ -10,4 +10,4 @@ Adding one react elementinside another as well by usingjust curly braces.
 Even you can add React component inside React element.
 Even you can call react component as function as it is nothing but an arrow functions inside React component using curly braces. 
 Normal JavaScript functions are also can be called inside React component but we should take care of the values returned by it.
-Important note: JSX takes care of Ingestion attack.
+Important note: JSX prevents code Ingestion (attacks).
